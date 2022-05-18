@@ -1,0 +1,27 @@
+:root {
+  --card-1: #e38826;
+  --card-2: #006970;
+  --card-3: #004241;
+  --paragraphs: #ffffffbf;
+  --background-mainText: #f2f2f2;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  text-decoration: none;
+  color: var(--card-2);
+}
+
+.attribution a:hover {
+  color: var(--card-1);
+}
