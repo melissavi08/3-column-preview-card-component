@@ -4,6 +4,10 @@ This is a solution to the [3 column preview card component challenge on Frontend
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
+## Desktop Design
+
+<img src="./images/desktop-design.jpg" alt="desktop-design" style="width:60%;"/>
+
 ## Links
 
 - Live Site URL: [3 column preview card component](https://melissavi08.github.io/3-column-preview-card-component/index.html)
